@@ -1,11 +1,4 @@
-### Hi there 👋
-
-<!--
-**Aniketsha52/Aniketsha52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-# <Aniket Sha>'s GitHub Profile
+# Aniket Sha GitHub Profile
 
 ## Introduction
 
@@ -49,5 +42,6 @@ Feel free to connect with me, and let's collaborate or discuss interesting ideas
 ## License
 
 The projects and code snippets shared on this profile are generally open source. Please refer to individual project repositories for specific licensing details.
+--!>
 
 
