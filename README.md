@@ -17,4 +17,8 @@ Hello, world! 👋 I'm Aniket Sha, and this is my GitHub profile. I'm passionate
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketsha52&layout=pie)](https://github.com/Aniketsha52/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aniketsha52&show_icons=true&theme=radical)
+![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aniketsha52&show_icons=true&theme=radical)  
+
+## 🏆 Githup Trophy  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aniketsha52&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
