@@ -6,7 +6,7 @@ Hello, world! 👋 I'm Aniket Sha, and this is my GitHub profile. I'm passionate
 
 - 🌱 I’m currently learning **C#**
 
-- 📫 How to reach me **aniketsha52@gmail.com**
+- 📫 How to reach me **aniket.sha.52@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
