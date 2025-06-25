@@ -35,8 +35,12 @@ Hello, world! I'm Aniket Sha, a passionate developer with a love for learning ne
   <img src="https://github-readme-stats.vercel.app/api?username=Aniketsha52&show_icons=true&theme=radical" alt="Aniket's GitHub stats"/>
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketsha52&layout=pie" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketsha52&layout=compact" alt="Top Languages"/>
 </p>
+<p align="left">
+  <img src ="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aniketsha52&theme=vue" />
+</p>
+
 
 ---
 
